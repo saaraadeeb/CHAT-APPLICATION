@@ -23,3 +23,8 @@ Overall, the Real-Time Chat Application project was a valuable learning experien
 #TERMINAL SHOWING
 
 <img width="1482" height="311" alt="Image" src="https://github.com/user-attachments/assets/a8b1acc7-3b26-4428-857a-ac0fd29be500" />
+
+#OUTPUT
+
+<img width="1917" height="965" alt="Image" src="https://github.com/user-attachments/assets/a6aca08e-58a2-44ea-bd50-5f0a33122067" />
+
